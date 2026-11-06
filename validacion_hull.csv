@@ -1,0 +1,6 @@
+metodo,observaciones,precio,sigma_equivalente
+TW promedio continuo (Hull),continuo,5.616792,0.235383
+TW discreto,12,5.995788,0.249491
+TW discreto,52,5.704306,0.238648
+TW discreto,252,5.634853,0.236057
+Monte Carlo (IC95% ±0.0197),252,5.571973,
